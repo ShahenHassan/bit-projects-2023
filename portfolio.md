@@ -9,7 +9,7 @@
 
 please write down your name and your project in this format 1. [your name]: [your project]
 
-1. Rayan Salah:[Code](https://github.com/rayansalah11/portfolio)| [Demo](https://rayansalahh.netlify.app/)
+1. Rayan Salah:[Code](https://github.com/rayansalah11/portfolio)
 2. Shajwan Namiq: [Code](https://github.com/Shajwan-Namiq/portfolio-using-react) | [Demo](https://shajwan-namiq.netlify.app/)
 3. Muhammed Abdulla: [Code](https://github.com/marshallmhamad/Portfolio-Site)
 4. Shazyar abubakr: [Code](https://github.com/shazyarabubakr/portfolio)|[Demo](https://shazaabubakr.netlify.app/)
@@ -26,5 +26,5 @@ please write down your name and your project in this format 1. [your name]: [you
 15. Barez Dilshad: [Code](https://github.com/B4r3Z/my-portfolio) [Demo](https://existentialcrisis.netlify.app/)
 16. Yahya Hiwa: [Code](https://github.com/yahyahiwa3/portfolio.git) | [Demo](https://yahya-hiwa.netlify.app/)
 17. Aland: [Code](https://github.com/Alaaaand/porfolio-react-app.git)
-18. Shahen Hassan: [code](https://github.com/ShahenHassan/my-portfolio)
+18. Shahen Hassan: [code](https://github.com/ShahenHassan/my-portfolio) | [Demo](my-poortfolio)
 19. Hemin Sabah:[Code](https://github.com/heminsabah/portfolio)
