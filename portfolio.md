@@ -23,7 +23,7 @@ please write down your name and your project in this format 1. [your name]: [you
 12. Rozh Bahman: [Code](https://github.com/rozhi-98/Protfolio-with-react-and-tailwind/tree/main) | [Demo](https://rozhs-portfolio.netlify.app/)
 13. Moein abas: [Code](https://github.com/moein9/demo-portfolio) | [Demo](https://moein-portfolio-bit.netlify.app/)
 14. Ehsan Muhamad: [Code](https://github.com/wecho12/my-portfolio)| [Demo](https://ehsan-portfolo.netlify.app/)
-15. Barez Dilshad: [Code](https://github.com/B4r3Z/my-portfolio)
+15. Barez Dilshad: [Code](https://github.com/B4r3Z/my-portfolio) [Demo](https://existentialcrisis.netlify.app/)
 16. Yahya Hiwa: [Code](https://github.com/yahyahiwa3/portfolio.git)
 17. Aland: [Code](https://github.com/Alaaaand/porfolio-react-app.git)
 18. Shahen Hassan: [code](https://github.com/ShahenHassan/my-portfolio)
