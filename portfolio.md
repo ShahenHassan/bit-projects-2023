@@ -12,7 +12,7 @@ please write down your name and your project in this format 1. [your name]: [you
 1. Rayan Salah:[Code](https://github.com/rayansalah11/portfolio)| [Demo](https://rayansalahh.netlify.app/)
 2. Shajwan Namiq: [Code](https://github.com/Shajwan-Namiq/portfolio-using-react) | [Demo](https://shajwan-namiq.netlify.app/)
 3. Muhammed Abdulla: [Code](https://github.com/marshallmhamad/Portfolio-Site)
-4. Shazyar abubakr: [Code](https://github.com/shazyarabubakr/portfolio)
+4. Shazyar abubakr: [Code](https://github.com/shazyarabubakr/portfolio)|[Demo](https://shazaabubakr.netlify.app/)
 5. Hevar Tofiq: [Code](https://github.com/RageOfKurd/RageOfKurd-portfolio) | [Demo](https://rageofkurd.netlify.app/)
 6. Sana Rzgar : [Code](https://github.com/Sanaa00/portfolioo.git)
 7. lanya yousif :[Code](https://github.com/lanyayousif/Myportfolio.git)
