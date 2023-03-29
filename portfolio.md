@@ -9,7 +9,7 @@
 
 please write down your name and your project in this format 1. [your name]: [your project]
 
-1. Rayan Salah:[Code](https://github.com/rayansalah11/portfolio)
+1. Rayan Salah:[Code](https://github.com/rayansalah11/portfolio)| [Demo](https://rayansalahh.netlify.app/)
 2. Shajwan Namiq: [Code](https://github.com/Shajwan-Namiq/portfolio-using-react) | [Demo](https://shajwan-namiq.netlify.app/)
 3. Muhammed Abdulla: [Code](https://github.com/marshallmhamad/Portfolio-Site)
 4. Shazyar abubakr: [Code](https://github.com/shazyarabubakr/portfolio)
